@@ -1,0 +1,14 @@
+message:
+   reload: 
+    -  "&6CrazyDifficulty's &2Config Reloaded succesfully"
+    
+opbow:
+  ARROW_FIRE: 1
+  ARROW_DAMAGE: 8
+  ARROW_KNOCKBACK: 100
+
+opsword:
+  KNOCKBACK: 100
+  FIRE_ASPECT: 1
+  DAMAGE_ALL: 7
+    

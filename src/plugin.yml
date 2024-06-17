@@ -1,0 +1,9 @@
+name: CrazyDifficulty
+author: NGT
+main: com.github.NGTYT.crazydiff.main
+api-version: '1.20'
+version: 1.0
+commands:
+   crazydifficulty-reload:
+    description: reloads plugins's config!
+    permission: crazy.reload
